@@ -1,2 +1,1 @@
 Hello， Git World!
-Hello!
